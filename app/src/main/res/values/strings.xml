@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="message_a_dur_e_long">Message a durée long</string>
+    <string name="message_a_dur_e_court">Message a durée court</string>
+    <string name="notification">Notification</string>
+    <string name="alert_a_une_seule_option">Alert a une seule option</string>
+    <string name="message_a_trois_option">Message a trois option</string>
+    <string name="alert_a_deux_options">alert a deux options</string>
+    <string name="dur_e_s">Durée (s)</string>
+    <string name="message_personnalis">Message a durée personnalisée</string>
+</resources>
